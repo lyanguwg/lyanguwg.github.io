@@ -4,7 +4,7 @@
     This configuration file was written by the eclipse-cs plugin configuration editor
 -->
 <!--
-    Checkstyle-Configuration: CS6311
+    Checkstyle-Configuration for CS classes
     Description: none
 -->
 <module name="Checker">
